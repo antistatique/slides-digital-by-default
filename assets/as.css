@@ -43,7 +43,7 @@ body {
   text-shadow: none; }
 
 .reveal h1 {
-  font-size: 3em;
+  font-size: 2em;
   color: #D40B6B;
 }
 
@@ -72,7 +72,7 @@ body {
   margin: 0.3em 0;
 }
 .reveal small{
-  font-size: 0.4em; 
+  font-size: 0.4em;
   color: #666;
 }
 
@@ -156,7 +156,7 @@ body {
     color: #D40B6B;
   }
 
- 
+
 .reveal .controls div.navigate-left,
 .reveal .controls div.navigate-left.enabled {
   border-right-color: #474747; }
